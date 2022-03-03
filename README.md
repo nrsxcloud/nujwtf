@@ -4,8 +4,7 @@
   </a>
 </p>
 
-
- <center> <h2>SURFHUB网盘</h2> </center>
+<h2 align="center">SURFHUB网盘</h2>
 
 ### 联系我
 
